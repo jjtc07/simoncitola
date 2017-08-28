@@ -1,0 +1,86 @@
+.administrativo{
+	background: #3498db;
+	border-radius: 100%;
+	color: white;
+	font-weight: bold;
+}
+
+.administrativoFinSemana{
+	color: #3498db;
+	font-weight: bold;
+	background: #b7b7b7 !important;
+	text-shadow: 0 1px #3498db;
+	border-radius: 100%;
+}
+
+.escolarFinSemana{
+	color: green;
+	font-weight: bold;
+	background: #b7b7b7 !important;
+	text-shadow: 0 1px green;
+	border-radius: 100%;
+}
+
+.finSemana{
+	background: #eff0f2;
+}
+
+.noLaborable{
+	background: #c9302c;
+	border-radius: 100%;
+	color: white;
+	font-weight: bold;
+}
+
+.noLaborableFinSemana{
+	background: #eff0f2;
+}
+
+
+.numSemana{
+	background: #e8e9ed;
+	font-weight: bold;
+}
+
+.valido {
+  cursor: pointer;
+}
+
+.valido:hover {
+	color: black;
+	text-shadow: 0 1px black;
+}
+
+.valido:active {
+  transform: translateY(4px);
+}
+
+table * {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+
+
+/*.finSemana{
+	width: 50%;
+	height: auto;
+	padding-top: 50%;
+
+	color: red;
+	border-radius: 2em;
+	padding: 0;
+	height:  200%;
+	text-align: center;
+	background: pink;
+	
+	color: #26B99A;
+	color: #286090;
+
+	font-weight: bold;
+
+	background: #eff0f2;
+}*/
